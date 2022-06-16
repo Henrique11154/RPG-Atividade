@@ -137,29 +137,3 @@ public class Principal2 {
         entrada.close();
     }   
 }
-
-
-/*  Gabriel
-Digite a força do gurreiro: 65
-Digite a resistência do gurreiro: 70
-Digite a vida do gurreiro: 100
-Digite a estamina do gurreiro: 50
-Digite a agilidade do gurreiro: 25
-Digite a sorte do gurreiro: 5
-
-Digite o nome do Arqueiro: Henrique
-Digite a destreza do Arqueiro: 60
-Digite a agilidade do Arqueiro: 80
-Digite a resistência do Arqueiro: 50
-Digite a vida do Arqueiro: 100
-Digite a estamina do Arqueiro: 20
-Digite a sorte do Arqueiro: 15
-
-Digite o nome do Mago: Ana
-Digite a inteligência do Mago: 55
-Digite a agilidade do Mago: 45
-Digite a resistência do Mago: 30
-Digite a vida do Mago: 100
-Digite a estamina do Mago: 4
-Digite a sorte do Mago: 0
-Digite a mana do Mago: 90*/
